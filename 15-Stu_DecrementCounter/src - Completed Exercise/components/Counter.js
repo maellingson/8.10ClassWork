@@ -12,6 +12,7 @@ class Counter extends React.Component {
   handleDecrement = () => {
     // const newCount= this.state.newCount - rewrite objects so that each new value is a new const. State is meant to be "item potent". Supposed to be constant and new every tijme
     //if it catches references it can fail sometimes.
+    //Should declare variables because it can help with debugging. 
     this.setState({ count: this.state.count - 1 });
   };
 

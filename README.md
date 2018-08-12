@@ -1,5 +1,5 @@
 # 8.10ClassWork
-These are activities I completed as make up work for class on 8/10. 
+These are the activities I completed as make up work for class on 8/10. 
 
 The completed src folder is marked in each activity folder. 
 
